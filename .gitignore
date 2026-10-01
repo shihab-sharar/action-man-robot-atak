@@ -1,0 +1,13 @@
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+
+# Debug files
+*.pdb
+*.ilk
+
+# Build directories
+build/
+bin/
